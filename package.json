@@ -5,5 +5,18 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
